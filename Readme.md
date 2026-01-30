@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Jaica-An Mansaludo</h1>
 <h3 align="center">A passionate student from University of Mindanao with a passion to create solution between technology and web design.</h3>
 
-- About me **I immerse myself in creating solutions with tech related development.**
+- About me **I immerse myself in creating solutions with tech related development. My goal is to become a skilled developer who builds efficient, reliable, and meaningful digital solutions.**
 
-- Ask me about **Computer programming and Web Designing **
+- Ask me about **Computer programming and Web Designing**
 
 - Reach me through Email: **j.mansaludo.560022@umindanao.edu.ph**
 
-- Fun fact **..**
+- Achievement **ITS Certification & Pharmacy Inventory System Project Prototyping in IT5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
