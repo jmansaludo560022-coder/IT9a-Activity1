@@ -3,9 +3,9 @@
 
 - About me **I immerse myself in creating solutions with tech related development.**
 
-- Ask me about **web design**
+- Ask me about **Computer programming and Web Designing **
 
-- How to reach me **j.mansaludo,560022@umindanao.edu.ph**
+- Reach me through Email: **j.mansaludo.560022@umindanao.edu.ph**
 
 - Fun fact **..**
 
