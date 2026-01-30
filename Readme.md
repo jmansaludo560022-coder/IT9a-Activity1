@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Jaica-An Mansaludo</h1>
+<h2 align="center">BS Information Technology</h2>
 <h3 align="center">A passionate student from University of Mindanao with a passion to create solution between technology and web design.</h3>
 
 <h2 align="left"> About me </h2>
@@ -6,16 +7,20 @@
 
 <h3 align="left"> Ask me about </h3>
  <ul> 
-   <li>Computer programming** </li>
+   <li>Computer programming</li>
    <li>Web Designing</li>
  </ul>
+
 <h3 align="left"> Reach me through my email: </h3>
 <ul> 
-<li>j.mansaludo.560022@umindanao.edu.ph</li>
+  <li>j.mansaludo.560022@umindanao.edu.ph</li>
 </ul> 
 
 <h3 align="left"> Achievements </h3> 
-<li>ITS Certification & Pharmacy Inventory System Project Prototyping in IT5 </li>
+<ul> 
+  <li>ITS Certification </li>
+  <li>Pharmacy Inventory System Project Prototyping in IT5 </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
