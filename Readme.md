@@ -5,14 +5,17 @@
 <p align="left"> I immerse myself in creating solutions with tech related development. My goal is to become a skilled developer who builds efficient, reliable, and meaningful digital solutions.</p>
 
 <h3 align="left"> Ask me about </h3>
- **Computer programming**
- **Web Designing**
-
+ <ul> 
+   <li>Computer programming** </li>
+   <li>Web Designing</li>
+ </ul>
 <h3 align="left"> Reach me through my email: </h3>
- **j.mansaludo.560022@umindanao.edu.ph**
+<ul> 
+<li>j.mansaludo.560022@umindanao.edu.ph</li>
+</ul> 
 
 <h3 align="left"> Achievements </h3> 
-**ITS Certification & Pharmacy Inventory System Project Prototyping in IT5**
+<li>ITS Certification & Pharmacy Inventory System Project Prototyping in IT5 </li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
